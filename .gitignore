@@ -1,0 +1,4 @@
+terraform.*
+!terraform.tfvars_EXAMPLE
+.terraform
+.terraform.*
